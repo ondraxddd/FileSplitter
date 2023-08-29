@@ -1,5 +1,5 @@
 # Send files without restrictions
-Have you ever wanted to send a file through Discord or any other online platform but you couldnt because of its size? Well, here comes solution.
+Have you ever wanted to send a file through Discord or any other online platform but you couldnt because of its size? Well, here comes a solution.
 # HOW TO USE
 ## Sender side
 Put everything you want to send into a single ZIP file - nothing else, such as RAR is accepted. Run the app and select the new ZIP file you just created. Proceed to next step and choose where new, smaller files will be placed. It comes "out of box", so rather create a new folder for that. And input max allowed size on your chosen platform and hit "Split". You will be notified when its done. Then simply send all the small bin files to your friend.
