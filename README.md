@@ -12,4 +12,9 @@ If u try to split a really small files, under like <5MB, there might some bugs o
 
 ### Btw, the app is so lightweight you can send it through Discord, lol
 
-![pochita](https://github.com/ondraxddd/FileSplitter/assets/92151973/25ca941b-5c6c-4e80-b06f-983677e39e4c)
+
+![senderside](https://github.com/ondraxddd/FileSplitter/assets/92151973/19d66cf6-9d69-4b91-880c-058b4a2db2d8)
+![receiverside](https://github.com/ondraxddd/FileSplitter/assets/92151973/23d3d232-2937-4fab-8a3a-68eeff297090)
+
+![pochita](https://github.com/ondraxddd/File![receiverside](https://github.com/ondraxddd/FileSplitter/assets/92151973/1ae7d2ea-4a9f-4a86-8baa-c17604ad95ce)
+Splitter/assets/92151973/25ca941b-5c6c-4e80-b06f-983677e39e4c)
